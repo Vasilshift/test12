@@ -12,6 +12,5 @@ public class foo {
         }
 
         System.out.print("n! = " + y);
-
     }
 }
