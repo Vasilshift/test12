@@ -9,8 +9,7 @@ public class foo {
         for (int i = 1; i < n; i++) {
             y = y * (x - i);
         }
-        
-        System.out.print("n! = " + y);
 
+        System.out.print("n! = " + y);
     }
 }
