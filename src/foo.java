@@ -10,6 +10,6 @@ public class foo {
             y = y * (x - i);
         }
 
-        System.out.print("n! = " + y);
+        System.out.print("n! = cbcxnxcnxc" + y);
     }
 }
